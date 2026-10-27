@@ -30,13 +30,12 @@ Python · RAG · NLP · LLMs · YOLOv8 · Django · FastAPI · Flutter · Java �
 |---|---|
 | STK Online (RAG system) | Document Q&A system built during my AI Engineer internship at PT Pertamina Drilling Services Indonesia. 99.2% precision on a 1,346-question test. [Repo](https://github.com/riflifaizullah/rag_system) |
 | Campus Hazard Detection (group repo) | Four YOLOv8 models, one per hazard zone, combined into a mobile app that spots campus road hazards and recommends a fix. My part: the Obstruction and Environmental model (mAP@50 0.691). [Repo](https://github.com/MirulHakim/MACHINE-LEARNING-UPM-HAZARD-MOBILE-APP) |
-| customer-sentiment-api | Python API for customer sentiment analysis. [Repo](https://github.com/riflifaizullah/customer-sentiment-api) |
 
 ### Web applications
 | Project | Description |
 |---|---|
 | UniEats | Campus food discovery website for students. [Repo](https://github.com/riflifaizullah/unieats) |
-| UniQuery | Academic Q&A platform, Software Engineering course project. [Repo](https://github.com/riflifaizullah/uniquery) |
+| UniQuery | Academic Q&A platform, Software Engineering course team project. [Team repo](https://github.com/ddhaf/UniQuery) · [My prototype](https://github.com/riflifaizullah/uniquery) |
 | FoodLink | Mobile app prototype that connects surplus food to students to cut food waste. [Live](https://foodlinkmvp.lovable.app/) |
 
 ### Mobile
