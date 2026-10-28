@@ -28,7 +28,7 @@ Python · RAG · NLP · LLMs · YOLOv8 · Django · FastAPI · Flutter · Java �
 ### AI and machine learning
 | Project | Description |
 |---|---|
-| STK Online (RAG system) | Document Q&A system built during my AI Engineer internship at PT Pertamina Drilling Services Indonesia. 99.2% precision on a 1,346-question test. [Repo](https://github.com/riflifaizullah/rag_system) |
+| STK Online (RAG system) | Document Q&A system built during my AI Engineer internship at PT Pertamina Drilling Services Indonesia. 99.2% precision on a 1,346-question test on internal documents. [DocRag, public version](https://github.com/riflifaizullah/docrag) |
 | Campus Hazard Detection (group repo) | Four YOLOv8 models, one per hazard zone, combined into a mobile app that spots campus road hazards and recommends a fix. My part: the Obstruction and Environmental model (mAP@50 0.691). [Repo](https://github.com/MirulHakim/MACHINE-LEARNING-UPM-HAZARD-MOBILE-APP) |
 
 ### Web applications
