@@ -15,7 +15,7 @@
 
 ## About me
 
-> Final-year Software Engineering student at Universiti Putra Malaysia. I build RAG, NLP and computer vision systems, plus the Python and Django backends and Flutter apps around them. I recently did an AI Engineer internship where I built a document Q&A system that reached 99.2% precision on a 1,346-question test. I am open to full stack, backend, frontend, AI and mobile roles.
+> Final-year Software Engineering student at Universiti Putra Malaysia. I build RAG, NLP and computer vision systems, plus the Python and Django backends and Flutter apps around them. I recently did an AI Engineer internship where I built a document Q&A system over 18,818 pages of internal documents that cites the source page for every answer. I am open to full stack, backend, frontend, AI and mobile roles.
 
 ## Tech
 
@@ -28,7 +28,7 @@ Python · RAG · NLP · LLMs · YOLOv8 · Django · FastAPI · Flutter · Java �
 ### AI and machine learning
 | Project | Description |
 |---|---|
-| DocRag (RAG system) | Document Q&A system built during my AI Engineer internship. 99.2% precision on a 1,346-question test on internal documents. [DocRag, public version](https://github.com/riflifaizullah/docrag) |
+| DocRag (RAG system) | Document Q&A system built during my AI Engineer internship. In my final test on internal documents it answered 612 of 700 answerable questions and refused 115 of 120 off-topic or made-up ones. [DocRag, public version](https://github.com/riflifaizullah/docrag) |
 | Campus Hazard Detection (group repo) | Four YOLOv8 models, one per hazard zone, combined into a mobile app that spots campus road hazards and recommends a fix. My part: the Obstruction and Environmental model (mAP@50 0.691). [Repo](https://github.com/MirulHakim/MACHINE-LEARNING-UPM-HAZARD-MOBILE-APP) |
 
 ### Web applications
