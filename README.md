@@ -15,7 +15,7 @@
 
 ## About me
 
-> Final-year Software Engineering student at Universiti Putra Malaysia. I build RAG, NLP and computer vision systems, plus the Python and Django backends and Flutter apps around them. I recently did an AI Engineer internship where I built a document Q&A system over 18,818 pages of internal documents that cites the source page for every answer. I am open to full stack, backend, frontend, AI and mobile roles.
+> Final-year Software Engineering student at Universiti Putra Malaysia. I build RAG, NLP and computer vision systems, plus the Python and Django backends and Flutter apps around them. I recently did an AI Engineer internship in Pertamina Drilling Service Indonesia where I built a document Q&A system over 18,818 pages of internal documents that cites the source page for every answer. I am open to full stack, backend, frontend, AI and mobile roles.
 
 ## Tech
 
