@@ -28,7 +28,7 @@ Python · RAG · NLP · LLMs · YOLOv8 · Django · FastAPI · Flutter · Java �
 ### AI and machine learning
 | Project | Description |
 |---|---|
-| Document Q&A system (AI Engineer internship, private) | Self-hosted RAG over internal documents, with page citations. 99.2% precision on answer-or-refuse decisions (820 scored test questions on internal documents): answered 612 of 700 answerable questions and refused 115 of 120 off-topic or made-up ones. Code and data are not public. |
+| Document Q&A system (AI Engineer internship, private) | Self-hosted RAG over internal documents, with page citations. 99.2% precision on answer-or-refuse decisions (820 scored test questions on internal documents): answered 612 of 700 answerable questions and refused 115 of 120 off-topic or made-up ones. Code and data are not public. Public repo check down below |
 | DocRAG (open source) | Rebuilt from the same design with no company data. English and Indonesian, FastAPI and Blazor, Docker Compose setup tested in CI, and a public benchmark anyone can rerun. [Repo](https://github.com/riflifaizullah/docrag) |
 | Campus Hazard Detection (group repo) | Four YOLOv8 models, one per hazard zone, combined into a mobile app that spots campus road hazards and recommends a fix. My part: the Obstruction and Environmental model (mAP@50 0.691). [Repo](https://github.com/MirulHakim/MACHINE-LEARNING-UPM-HAZARD-MOBILE-APP) |
 
