@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rifli Faizullah</h1>
 
 <p align="center">
-  AI Engineer in progress · Software Engineering student at UPM · Graduating Oct 2027<br>
+  AI Engineer in progress · Software Engineering student at UPM · Graduating Dec 2027<br>
   Serdang, Malaysia · Open to internships and graduate roles
 </p>
 
@@ -19,7 +19,7 @@
 
 ## Tech
 
-Python · RAG · NLP · LLMs · YOLOv8 · Django · FastAPI · Flutter · Java · JavaScript · SQL · Firebase
+Python · RAG · NLP · LLMs · LLM fine-tuning (QLoRA) · MCP · YOLOv8 · Django · FastAPI · C# Blazor · PostgreSQL · Docker · Flutter · Java · JavaScript · SQL · Firebase
 
 ---
 
@@ -29,6 +29,7 @@ Python · RAG · NLP · LLMs · YOLOv8 · Django · FastAPI · Flutter · Java �
 | Project | Description |
 |---|---|
 | Document Q&A system (AI Engineer internship, private) | Self-hosted RAG over internal documents, with page citations. 99.2% precision on answer-or-refuse decisions (820 scored test questions on internal documents): answered 612 of 700 answerable questions and refused 115 of 120 off-topic or made-up ones. Code and data are not public. Public repo check down below |
+| SafetyOps (open source) | Fine-tuned Qwen3-1.7B (QLoRA, one 8 GB laptop GPU) that turns Indonesian, Malay and English incident reports into structured fields: exact match on 100 real OSHA/MSHA reports rose from 5% to 48%. Around it: a guarded SQL analyst agent, FastAPI, PostgreSQL, a Blazor dashboard, an MCP server and 335 tests. Failed experiments are documented. [Repo](https://github.com/riflifaizullah/SafetyOps) |
 | DocRAG (open source) | Rebuilt from the same design with no company data. English and Indonesian, FastAPI and Blazor, Docker Compose setup tested in CI, and a public benchmark anyone can rerun. [Repo](https://github.com/riflifaizullah/docrag) |
 | Campus Hazard Detection (group repo) | Four YOLOv8 models, one per hazard zone, combined into a mobile app that spots campus road hazards and recommends a fix. My part: the Obstruction and Environmental model (mAP@50 0.691). [Repo](https://github.com/MirulHakim/MACHINE-LEARNING-UPM-HAZARD-MOBILE-APP) |
 
